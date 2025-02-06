@@ -5,6 +5,10 @@ int main() {
 	std::cout << "Added first level branch \n";
 	std::cout << "first level branch - mac - humber \n";
 
+	std::cout << "Second level - mac - humber"
+
+	std::cout << "More code" << std::endl;
+
 
 	std::cout << "merged solved \n";
 
